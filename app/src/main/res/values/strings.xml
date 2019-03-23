@@ -1,0 +1,12 @@
+<resources>
+    <!--Test text-->
+    <string name="hello_world">Hello World!!</string>
+
+    <!--Headings/top text-->
+    <string name="app_name">Labbis</string>
+    <string name="your_pets">Dine Kjæledyr</string>
+    <string name="new_pet_heading">Nytt Kjæledyr</string>
+
+    <!--Btn texts-->
+    <string name="add_pet_btn">Legg til kjæledyr</string>
+</resources>
